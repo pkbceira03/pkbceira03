@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Pedro and I am a Software Engineering student at UnB/FGA.</h2>
+<h2 align="center">Hi 👋! My name is Pedro, but you can call me Cabeceira and I am a Software Engineering student at UnB/FGA.</h2>
 
 ###
 
