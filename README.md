@@ -8,4 +8,11 @@
 </div>
 
 ###
-![snake gif](https://github.com/pkbceira03/pkbceira03/blob/output/github-contribution-grid-snake.gif)
+
+<div align ="center">
+
+<br clear="both">
+
+<img src="https://github.com/pkbceira03/pkbceira03/blob/output/snake.svg" alt="Snake animation" />
+
+ </div>
