@@ -19,12 +19,3 @@
           
 </div>
 
-###
-
-<div align ="center">
-
-<br clear="both">
-
-<img src="https://github.com/pkbceira03/pkbceira03/blob/output/snake.svg" alt="Snake animation" />
-
- </div>
