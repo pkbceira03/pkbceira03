@@ -43,7 +43,8 @@ Sou um fanático por tecnologia que ama acompanhar todo e qualquer tipo de inova
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pkbceira03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=pkbceira03&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true
+    " 
   />
 
 <img 
