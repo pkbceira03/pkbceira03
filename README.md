@@ -39,10 +39,8 @@ Sou um fanático por tecnologia que ama acompanhar todo e qualquer tipo de inova
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
+    alt="Estatísticas do GitHub" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=pkbceira03&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true
     " 
   />
